@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec3a7b6-21cd-4212-a17a-4fbefb3555bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/l1_basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1" afterDir="false" />
+    <list default="true" id="5ec3a7b6-21cd-4212-a17a-4fbefb3555bc" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/deeplearning_scratch_sentdex_learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/l1_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/l1_basics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,8 +35,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="l1_basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson_2">
+    <configuration name="l1_basics" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="deeplearning_scratch_sentdex_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,9 +57,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deeplearning_scratch_sentdex_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.l1_basics" />
+        <item itemvalue="Python.lesson_2" />
       </list>
     </recent_temporary>
   </component>
@@ -66,36 +95,63 @@
       <option name="presentableId" value="Default" />
       <updated>1588157985177</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1588158520706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588158520706</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1588158646331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588158646331</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="514" y="54" key="#l1_basics" timestamp="1588158083778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="514" y="54" key="#l1_basics/0.0.1536.824@0.0.1536.824" timestamp="1588158083778" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1588158486219">
+    <state x="403" y="7" key="CommitChangelistDialog2" timestamp="1588158644434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588158486219" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1588158486219">
+    <state x="403" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588158644434" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1588160138486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588158486219" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1588158486218">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588160138486" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1588160138486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588158486218" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1588158486219">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588160138486" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1588160138485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588158486219" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588160138485" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1588160138486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588160138486" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1588158110589">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588158110589" />
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1588158045617">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1588158658910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588158045616" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588158658910" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1588159106413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588159106413" />
   </component>
 </project>
